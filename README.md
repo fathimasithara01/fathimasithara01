@@ -17,7 +17,7 @@ I'm constantly leveling up my skills in:
 - Designing scalable, production-ready architectures
 
 ###  Current mission:
-Build complete, modular backend projects in Go that feel like they were crafted by a team — not a solo developer. (Even though I am one 👨‍💻)
+Build complete, modular backend projects in Go that feel like they were crafted by a team — not a solo developer. (Even though I am one)
 
 ---
 
