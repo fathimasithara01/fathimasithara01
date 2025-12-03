@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fathima Sithara  
+#  Hi, I'm Fathima Sithara  
 ###  Backend Developer (Golang + Microservices) | Full Stack Capable  
 
 I am a Golang Backend Developer specializing in **microservices, distributed systems, event-driven architecture, and real-time communication**.  
