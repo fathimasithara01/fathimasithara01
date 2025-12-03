@@ -72,7 +72,7 @@ Microservice-based trading automation platform.
 
 ---
 
-## 🔥 3. eCommerce Backend (Golang + Clean Architecture)  
+##  3. eCommerce Backend (Golang + Clean Architecture)  
 A fully modular, scalable backend with clean architecture.
 
 **Includes:**  
@@ -109,8 +109,7 @@ I work with:
 
 📧 **Email:** fathimasithara011@gmail.com  
 📍 **Kerala, India**  
-🔗 **LinkedIn:** Add link  
-🔗 **Portfolio:** Add link  
+🔗 **Portfolio:** 
 
 ---
 
