@@ -1,105 +1,100 @@
-#  Hi, I'm Fathima Sithara  
-###  Backend Developer (Golang + Microservices) | Full Stack Capable  
+# 👋 Hi, I'm Fathima Sithara
 
-I am a Golang Backend Developer specializing in **microservices, distributed systems, event-driven architecture, and real-time communication**.  
-I build high-performance backend systems using **Golang, Gin, Kafka/NATS, Redis, PostgreSQL, MongoDB, and Docker**.  
-Also experienced in frontend development using **React, HTML, CSS, JavaScript**.
+### Backend Engineer (Golang) | REST APIs | Kafka | Redis
+
+I am a Backend Engineer specializing in building reliable backend services and event-driven applications using Go.
+I enjoy designing clean, maintainable systems and have hands-on experience building REST APIs, implementing authentication, and developing real-time backend features.
 
 ---
 
-##  Tech Stack  
+## 🚀 Tech Stack
 
 ### 🟦 Backend
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
-![Gin](https://img.shields.io/badge/Gin_Gonic-0099e5?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-00BFFF?style=for-the-badge)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka)
-![NATS](https://img.shields.io/badge/NATS-1997B5?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=api)
-![WebSocket](https://img.shields.io/badge/WebSocket-0078D7?style=for-the-badge)
 
----
-
-### 🟩 Frontend
-![HTML](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38b2ac?style=for-the-badge&logo=tailwind-css)
+Go (Golang), Gin  
+REST APIs, WebSockets  
+Redis, Kafka  
+PostgreSQL, MongoDB  
+JWT Authentication, RBAC
 
 ---
 
 ### 🛠 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman)
+
+Docker, Git, Linux, Postman
 
 ---
 
-# 🧩 Featured Projects  
+## 🧩 Featured Projects
 
-##  1. Real-Time Chat Application (Go + Kafka + Redis + WebSocket)  
-A fully scalable, event-driven real-time chat system.
+### 🔹 Real-Time Chat Application
 
-**Highlights:**  
-- WebSocket gateway for instant bi-directional communication  
-- Kafka for distributed message streaming  
-- Redis caching for low-latency access  
-- MongoDB for chat persistence  
-- JWT authentication (secure user sessions)
+**Go | WebSockets | Kafka | Redis | MongoDB**
 
-🔗 *Repo: https://github.com/fathimasithara01/chat-app*
+A real-time chat backend built using an event-driven architecture.
 
----
+**Highlights**
 
-##  2. TradingPulse – Real-Time Copy Trading SaaS  
-Microservice-based trading automation platform.
+* WebSocket-based bi-directional communication
+* Redis Pub/Sub for message broadcasting
+* Kafka for asynchronous event processing
+* JWT authentication (access & refresh tokens)
+* Core messaging features (send, edit, delete, read receipts)
 
-**Features:**  
-- User, Trader, Wallet, Signals, Admin microservices  
-- RBAC + JWT-based authentication  
-- Subscription & commission system  
-- Cron jobs for automatic renewals  
-- Razorpay secure payment integration  
-- PostgreSQL + GORM ORM  
-
-🔗 *Repo: https://github.com/fathimasithara01/tradeverse*
+🔗 Repo: https://github.com/fathimasithara01/chat-app
 
 ---
 
-##  3. eCommerce Backend (Golang + Clean Architecture)  
-A fully modular, scalable backend with clean architecture.
+### 🔹 TradeVerse — Multi-Role Trading Platform
 
-**Includes:**  
-- Product, Cart, WishList, Wallet, Address modules  
-- Admin & User role APIs  
-- JWT + Refresh token authentication  
-- PostgreSQL + Redis caching  
-- Multi-layered modular design  
+**Go | Gin | PostgreSQL | GORM | JWT | Cron**
 
-🔗 *Repo: https://github.com/fathimasithara01/Ecommerce-Backend*
+Backend trading platform supporting Admin, Trader, and Customer roles.
 
----
+**Features**
 
-# 🏗 Architectural Expertise  
-I work with:
-
-- 🧱 Clean Architecture  
-- 🧩 Modular Layered Architecture  
-- ⚡ Event-Driven Systems  
-- 🔄 Distributed Microservices  
-- 📡 Pub/Sub Messaging (Kafka, NATS)  
-- 🚀 High-performance API development  
-- 🔐 Authentication & Authorization (JWT, RBAC)
+* Role-based authentication (JWT + RBAC)
+* Wallet system with transaction safety
+* Subscription lifecycle automation using cron
+* Trader signal management
+* Clean Architecture implementation
+* Experience building multi-role backend systems (Admin, Trader, Customer)
+* Hands-on experience with asynchronous workflows using Redis & Kafka
+  
+🔗 Repo: https://github.com/fathimasithara01/tradeverse
 
 ---
 
-# 📊 GitHub Stats  
+### 🔹 eCommerce Backend
+
+**Go | Clean Architecture | PostgreSQL | Redis**
+
+Modular backend system demonstrating layered architecture.
+
+**Includes**
+
+* Product, Cart, Wishlist, Wallet, Address modules
+* Admin & User role APIs
+* JWT + refresh token authentication
+* Redis caching integration
+* Structured handler → service → repository layers
+
+🔗 Repo: https://github.com/fathimasithara01/Ecommerce-Backend
+
+---
+
+## 🏗 What I Focus On
+
+* Clean Architecture
+* REST API design
+* Event-driven backend systems
+* Real-time communication (WebSockets)
+* Authentication & Authorization (JWT, RBAC)
+* Writing maintainable and well-structured Go services
+  
+---
+
+## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=fathimasithara01&show_icons=true&theme=radical)
 
@@ -107,14 +102,15 @@ I work with:
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathimasithara01&theme=radical)
 
----
-
-# 🌐 Connect With Me  
-
-📧 **Email:** fathimasithara011@gmail.com  
-📍 **Kerala, India**  
-🔗 **Portfolio:** 
 
 ---
 
-⭐ *If you like my projects, consider giving them a star!*  
+## 🌐 Connect With Me
+
+📧 Email: [fathimasithara011@gmail.com](mailto:fathimasithara011@gmail.com)
+📍 Kerala, India
+🔗 LinkedIn: https://www.linkedin.com/in/fathimasithara
+
+---
+
+⭐ *If you like my work, consider giving a star to the repositories!*
