@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fathima Sithara
 
-### Backend Engineer (Golang) | REST APIs | Kafka | Redis
+### Backend Engineer (Go) | Microservices | REST APIs | Kafka | Redis | PostgreSQL | Clean Architecture
 
 I am a Backend Engineer specializing in building reliable backend services and event-driven applications using Go.
 I enjoy designing clean, maintainable systems and have hands-on experience building REST APIs, implementing authentication, and developing real-time backend features.
