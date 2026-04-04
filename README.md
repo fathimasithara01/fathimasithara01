@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Fathima Sithara
 
-### Backend Engineer (Go) | Microservices | REST APIs | Kafka | Redis | PostgreSQL | Clean Architecture
+### Backend Engineer (Go) | Microservices | Distributed Systems | Kafka | Redis | PostgreSQL
 
-I am a Backend Engineer specializing in building reliable backend services and event-driven applications using Go.
-I enjoy designing clean, maintainable systems and have hands-on experience building REST APIs, implementing authentication, and developing real-time backend features.
+Backend Engineer specializing in scalable, high-performance systems and event-driven architectures using Go. Experienced in designing fault-tolerant REST APIs, microservices, and real-time systems using Kafka and Redis.
+
+I focus on building production-ready systems with strong emphasis on performance, scalability, and clean architecture.
 
 ---
 
@@ -11,17 +12,18 @@ I enjoy designing clean, maintainable systems and have hands-on experience build
 
 ### 🟦 Backend
 
-Go (Golang), Gin  
-REST APIs, WebSockets  
-Redis, Kafka  
-PostgreSQL, MongoDB  
-JWT Authentication, RBAC
+- Go (Golang), Gin  
+- REST APIs, WebSockets  
+- PostgreSQL, MongoDB  
+- Redis (Caching, Pub/Sub), Kafka (Event Streaming)  
+- JWT Authentication, RBAC 
 
 ---
 
 ### 🛠 Tools & DevOps
 
-Docker, Git, Linux, Postman
+- Docker, Git, Linux, Postman  
+- GitHub Actions (CI/CD basics)
 
 ---
 
@@ -31,16 +33,15 @@ Docker, Git, Linux, Postman
 
 **Go | WebSockets | Kafka | Redis | MongoDB**
 
-A real-time chat backend built using an event-driven architecture.
 
 **Highlights**
 
-* WebSocket-based bi-directional communication
-* Redis Pub/Sub for message broadcasting
-* Kafka for asynchronous event processing
-* JWT authentication (access & refresh tokens)
-* Core messaging features (send, edit, delete, read receipts)
-
+- Built a distributed real-time messaging system  
+- Implemented WebSocket-based bi-directional communication  
+- Used Redis Pub/Sub for low-latency messaging  
+- Designed Kafka-based event pipeline for asynchronous processing and service decoupling
+- Implemented JWT authentication (access & refresh tokens)
+  
 🔗 Repo: https://github.com/fathimasithara01/chat-app
 
 ---
@@ -51,15 +52,13 @@ A real-time chat backend built using an event-driven architecture.
 
 Backend trading platform supporting Admin, Trader, and Customer roles.
 
-**Features**
+**Highlights**
 
-* Role-based authentication (JWT + RBAC)
-* Wallet system with transaction safety
-* Subscription lifecycle automation using cron
-* Trader signal management
-* Clean Architecture implementation
-* Experience building multi-role backend systems (Admin, Trader, Customer)
-* Hands-on experience with asynchronous workflows using Redis & Kafka
+- Designed modular clean architecture for multi-role system (Admin, Trader, Customer)
+- Implemented secure authentication & authorization using JWT + RBAC
+- Built wallet ledger system with transactional consistency using database transactions
+- Automated subscription workflows using cron jobs
+- Designed domain-driven service layer with clear separation (Handler → Service → Repository) 
   
 🔗 Repo: https://github.com/fathimasithara01/tradeverse
 
@@ -73,34 +72,37 @@ Modular backend system demonstrating layered architecture.
 
 **Includes**
 
-* Product, Cart, Wishlist, Wallet, Address modules
-* Admin & User role APIs
-* JWT + refresh token authentication
-* Redis caching integration
-* Structured handler → service → repository layers
+- Developed clean layered architecture (Handler → Service → Repository)
+- Implemented product, cart, wishlist, wallet, and address modules
+- Integrated Redis caching to reduce database load and improve response times
+- Built secure authentication system using JWT with refresh tokens
 
 🔗 Repo: https://github.com/fathimasithara01/Ecommerce-Backend
 
 ---
 
-## 🏗 What I Focus On
+## 🏗 Core Expertise
 
-* Clean Architecture
-* REST API design
-* Event-driven backend systems
-* Real-time communication (WebSockets)
-* Authentication & Authorization (JWT, RBAC)
-* Writing maintainable and well-structured Go services
-  
+- Clean Architecture & Layered Design  
+- REST API Design & Best Practices  
+- Microservices & Event-Driven Systems  
+- Concurrency (Goroutines, Channels)
+- Real-time communication (WebSockets)
+- Authentication & Authorization (JWT, RBAC)  
+- Database Design & Transactions  
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=fathimasithara01&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fathimasithara01&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimasithara01&layout=compact&theme=radical" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathimasithara01&layout=compact&theme=radical)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathimasithara01&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathimasithara01&theme=radical" />
+</p>
 
 
 ---
@@ -113,4 +115,4 @@ Modular backend system demonstrating layered architecture.
 
 ---
 
-⭐ *If you like my work, consider giving a star to the repositories!*
+⭐ *Open to Backend Developer opportunities*
