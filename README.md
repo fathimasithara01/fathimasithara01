@@ -93,20 +93,6 @@ Modular backend system demonstrating layered architecture.
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fathimasithara01&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimasithara01&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathimasithara01&theme=radical" />
-</p>
-
-
----
-
 ## 🌐 Connect With Me
 
 📧 Email: [fathimasithara011@gmail.com](mailto:fathimasithara011@gmail.com)
